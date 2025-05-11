@@ -5,10 +5,11 @@ I'm Aung Bo Bo, a CS student @ SJSU, passionate about backend development and bu
 - 👯 I’m looking to collaborate on mobile apps, AI tools, and impactful open-source projects
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aungbbo) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aungbbo48@gmail.com) 
 
-## 💻 Tech Stack:
+
+# 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -31,8 +32,11 @@ I'm Aung Bo Bo, a CS student @ SJSU, passionate about backend development and bu
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
-## 📊 GitHub Stats:
+
+
+# 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aungbbo&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=aungbbo&icon=0&color=0)](https://visitcount.itsvg.in)
+
+![Visitor Badge](https://komarev.com/ghpvc/?username=aungbbo&style=flat-square)
