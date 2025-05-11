@@ -1,8 +1,8 @@
 # 🙋🏻 Hey there!
 I'm Aung Bo Bo, a CS student @ SJSU, passionate about backend development and building real-world solutions.
 
-- 🔭 I’m currently working on TrailMate (React Native + Firebase) and StockSearch (Flask + AWS)<br>
-- 👯 I’m looking to collaborate on mobile apps, AI tools, and impactful open-source projects
+- ⌛ I’m currently working on TrailMate (React Native + Firebase) and StockSearch (Flask + AWS)<br>
+- 🤝 I’m looking to collaborate on mobile apps, AI tools, and impactful open-source projects
 
 
 # 🌐 Socials:
