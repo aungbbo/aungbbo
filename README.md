@@ -1,8 +1,5 @@
 # 🙋🏻 Hey there!
-I'm Aung Bo Bo, a CS student @ SJSU, passionate about backend development and building real-world solutions.
-
-- ⌛ I’m currently working on Trekteria (React Native, Supabase, Google Gemini)<br>
-- 🤝 I’m looking to collaborate on mobile apps, AI tools, and impactful open-source projects
+I'm Aung Bo Bo, a CS + Math student @ SJSU, passionate about AI and backend development.
 
 
 # 🌐 Socials:
