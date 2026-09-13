@@ -23,8 +23,7 @@ I'm Aung Bo Bo, a CS + Math student @ SJSU, passionate about AI and backend deve
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=aungbbo&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=aungbbo&layout=compact&theme=radical)
 ---
 
 ![Visitor Badge](https://komarev.com/ghpvc/?username=aungbbo&style=flat-square)
